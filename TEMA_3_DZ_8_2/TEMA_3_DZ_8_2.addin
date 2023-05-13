@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\TEMA_3_DZ_8_2.dll"</Assembly>
+		<AddInId>F819B116-874B-4194-B718-DB620DC9FA1F</AddInId>
+		<FullClassName>TEMA_3_DZ_8_2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>TEMA_3_DZ_8_2 Экспорт NWC</Text>
+	</AddIn>
+</RevitAddIns>
